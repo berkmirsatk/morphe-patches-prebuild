@@ -17,13 +17,13 @@ Rooted and non-rooted files patched with Morphe Patches for YouTube and YouTube 
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
-     - [**RV Pre-Build**](https://t.me/RVPrebuild)
-     - [**RV Pre-Build Files**](https://t.me/RVPrebuildFiles)
+     - [**Morphe Pre-Build**](https://t.me/MorphePrebuild)
+     - [**Morphe Pre-Build Files**](https://t.me/MorphePrebuildFiles)
 ---
 ### Credits💙
 > **[MorpheApp](https://github.com/MorpheApp)**
 >
-> **[LisoUseInAIKyrios](https://github.com/LisoUseInAIKyrios)** for [patches](https://github.com/LisoUseInAIKyrios/revanced-patches) and [Morphe Manager](https://github.com/MorpheApp/morphe-manager)
+> **[LisoUseInAIKyrios](https://github.com/LisoUseInAIKyrios)** for [patches](https://github.com/MorpheApp/morphe-patches) and [Morphe Manager](https://github.com/MorpheApp/morphe-manager)
 >
 > **[inotia00](https://github.com/inotia00)**
 >
