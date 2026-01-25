@@ -1,6 +1,6 @@
 {
-  "version": "v9.02.50 (v1.6.0)",
-  "versionCode": 502,
-  "zipUrl": "https://github.com/berkmirsatk/morphe-patches-prebuild/releases/download/Morphe_v1.6.0/Morphe.YTM.armeabi-v7a.zip",
+  "version": "v9.03.52 (v1.8.0)",
+  "versionCode": 503,
+  "zipUrl": "https://github.com/berkmirsatk/morphe-patches-prebuild/releases/download/Morphe_v1.8.0/Morphe.YTM.armeabi-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/berkmirsatk/morphe-patches-prebuild/main/changelogs/changelog_morphe.md"
 }
