@@ -1,5 +1,5 @@
 # Morphe Patches PreBuild
-Rooted and non-rooted files patched with Morphe Patches for YouTube and YouTube Music.
+Rooted and non-rooted files patched with Morphe Patches for YouTube, YouTube Music and Reddit (n-r).
 
 # Guide
 ### For rooted users

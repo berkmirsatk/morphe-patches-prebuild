@@ -1,6 +1,6 @@
 {
-  "version": "v21.03.36 (v1.9.0)",
-  "versionCode": 107,
-  "zipUrl": "https://github.com/berkmirsatk/morphe-patches-prebuild/releases/download/Morphe_v1.9.0/Morphe.YT.zip",
+  "version": "v21.04.223 (v1.11.0)",
+  "versionCode": 108,
+  "zipUrl": "https://github.com/berkmirsatk/morphe-patches-prebuild/releases/download/Morphe_v1.11.0/Morphe.YT.zip",
   "changelog": "https://raw.githubusercontent.com/berkmirsatk/morphe-patches-prebuild/main/changelogs/changelog_morphe.md"
 }
